@@ -1,0 +1,5 @@
+請寫出一個程式，詢問使用者的姓名及出生年，接下來程式會顯示您輸入的姓名及年齡。輸出畫面如下﹕
+please input your name:peter
+please enter your birth year:1978
+your name is:  peter
+your age is :  42
