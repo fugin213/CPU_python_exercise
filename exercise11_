@@ -10,3 +10,6 @@
 
 12.
 請寫一段程式，讀取read.txt的內容，排序後再把內容寫回sort.txt
+
+13.
+請讀取news.txt內的內容，並將news.txt內的單字去除stopwords
