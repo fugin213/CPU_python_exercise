@@ -1,0 +1,81 @@
+1. 
+請寫出一個程式，詢問使用者的姓名及出生年，接下來程式會顯示您輸入的姓名及年齡。輸出畫面如下﹕
+please input your name:peter
+please enter your birth year:1978
+your name is:  peter
+your age is :  42
+
+2.
+請寫出一個程式，由使用者輸入一個數字，程式會顯示您輸入的字是奇數或偶數。輸出畫面如下﹕
+please enter a number:6
+偶數
+
+3.
+請宣告一個list s1=[1,3,5,7,9]
+請把10加到list的最後元素
+請宣告一個list s2=[2,4,6,8,10]
+請把’0’加到s2的第一個元素
+請判斷10是否在s1中
+請取s1與s2的交集
+請取s1與s2的聯集
+輸出畫面如下﹕
+[1, 3, 5, 7, 9]
+[1, 3, 5, 7, 9, 10]
+[2, 4, 6, 8, 10]
+[0, 2, 4, 6, 8, 10]
+the intersection of s1 and s2 is :  [10]
+the union of s1 and s2 is :  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+4.
+請輸入一個數字，並寫一段程式列出可整除這個數字的list。輸出入範例如下﹕
+please enter a number: 24
+[1, 2, 3, 4, 6, 8, 12, 24]
+
+5.
+請輸入一個字串，若字串中的字元可逆(正反唸都一樣)，則印出reversible，若不可逆，則印出not reversible，輸出入範例如下﹕
+plese enter a word: abcdcba
+Your word is :  abcdcba
+reversible
+plese enter a word: abcdefg
+Your word is :  abcdefg
+not resersible
+
+6.
+請隨機產生一個1-9的整數，再由使用者猜這個數為何，若猜的數小於答案，則回答"too small"，若大於答案則回答"too big"，持續直到猜對為止。輸出入範例如下﹕
+please enter your answer: 3
+too small, try again!
+please guess again: 4
+too small, try again!
+please guess again: 5
+too small, try again!
+please guess again: 6
+bingo
+
+7.
+請寫出一段程式碼，判斷輸入的數字是否為質數，輸出入範例如下﹕
+please enter a number: 3
+This is a prime number!
+please enter a number: 5
+This is a prime number!
+please enter a number: 6
+This is not a prime number
+please enter a number: 1
+1 is not a prime number!
+please enter a number: 7
+This is a prime number!
+please enter a number:
+
+8.
+請寫一段程式碼，產生特定的Fibonnaci數列，輸出入畫面如下﹕
+How many Fibonacci number do you want to generat? 10
+[1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
+
+9.
+請寫一段程式碼，可反轉輸入的字串，輸出入畫面如下﹕
+Please enter a sentence: Hello world my name is peter.
+The original string is:  Hello world my name is peter.
+The reversed string is:  peter is name my world Hello
+
+10.
+請寫一段程式碼，讀取檔案(read.txt)內容，輸出入畫面如下﹕
+The content of the file is: 34 23 5 11 2 6 34
