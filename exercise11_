@@ -7,3 +7,6 @@
 3 is written to the file
 2 is written to the file
 4 is written to the file
+
+12.
+請寫一段程式，讀取read.txt的內容，排序後再把內容寫回sort.txt
