@@ -1,0 +1,9 @@
+11.
+請寫一段程式碼，將list=[2,3,4,5,3,2,4]內容寫到檔案中(write.txt)，輸出入畫面如下﹕
+2 is written to the file
+3 is written to the file
+4 is written to the file
+5 is written to the file
+3 is written to the file
+2 is written to the file
+4 is written to the file
