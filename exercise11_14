@@ -16,3 +16,9 @@
 
 14.
 請延續練習13，計算每篇文章內，去除stopwords後，列出出現頻率排名前5名的字。
+
+15.
+請寫一段網路爬蟲程式，從比特幣網站中"https://www.blockchain.com/btc/tx/1c12443203a48f42cdf7b1acee5b4b1c1fedc144cb909a3bf5edbffafb0cd204"，印出該網頁中的比特幣錢包。
+
+16.
+請寫一段網路爬蟲程式，從警察大學網站首頁"https://www.cpu.edu.tw/bin/home.php"，印出所有連結的標題內容。
