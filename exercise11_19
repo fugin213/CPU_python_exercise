@@ -22,3 +22,12 @@
 
 16.
 請寫一段網路爬蟲程式，從警察大學網站首頁"https://www.cpu.edu.tw/bin/home.php"，印出所有連結的標題內容。
+
+17.
+請使用blockchain所提供的比特幣api，列出https://blockchain.info/rawaddr/1AKpfwYmBUYfRAkFvgMWLeJxJXFHdu1DCT錢包的交易記錄。(需熟悉json格式操作)
+
+18.
+請處理政府公開資料中的桃園市路外停車資訊(https://data.gov.tw/dataset/25940)，將所有的停車站名列出。(需熟悉json格式操作)
+
+19.
+請處理政府公開資料中的新北市公共自行車租賃系統(YouBike)(https://data.gov.tw/dataset/28318)，將所有的停車站名列出。(需熟悉json格式操作)
